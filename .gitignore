@@ -2,5 +2,6 @@
 .env/
 .idea/
 
+.env
 
 *.cfg
