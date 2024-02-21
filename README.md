@@ -3,8 +3,10 @@
 ## Description
 The purpose of this project is to create a chatbot that can be used to communicate with the user in a natural language
 
+
 ## Requirements
-- Python 3.12.0 or higher
+- Ollama 0.1.25 or higher
+- Python 3.12.2 or higher
 - pip 23.2.1 or higher
 
 ## (Optional) Python Virtual Environment
