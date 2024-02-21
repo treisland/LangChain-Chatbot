@@ -92,3 +92,8 @@ Open a web browser and navigate one of the following URLs:
    ```
    python hello_ollama.py
    ```
+5. Run the main file to start the chatbot
+   ```
+   python chatapp.py
+   ```
+6. Exit the chatbot by typing "exit" into the user input field
