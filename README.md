@@ -78,4 +78,15 @@ Open a web browser and navigate one of the following URLs:
    ```
    pip install -r requirements.txt
    ```
+3. In the root of the project, create a file called **.env** and add the following environment variables:
 
+   *Note: replace <IP> with the IP address of the Ollama service*
+
+   ```
+   OLLAMA_URL=http://<IP>:11434
+   ```
+
+4. Run the test file to verify your code can communicate with the Ollama service
+   ```
+   python hello_ollama.py
+   ```
